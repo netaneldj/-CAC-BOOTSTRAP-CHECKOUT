@@ -1,2 +1,2 @@
-# -CAC-BOOTSTRAP-CHECKOUT
+# CAC-BOOTSTRAP-CHECKOUT
 Bootstrap Checkout Example
